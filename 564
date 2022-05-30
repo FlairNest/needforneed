@@ -1,0 +1,1273 @@
+	The number of all possible permutations
+P_n=n! (ответ)
+P_n=n!/m!
+P_n=n!/m!(n-m)!
+P_n=n!/(n-m)!
+P_n=(n+1)!
+	How many two-place numbers can be made of the digits 1, 4, 5 and 7 if each digit is included into the image of a number only once?
+24
+12(ответ)
+16
+3
+2
+	 The number of all possible allocations
+A_n^m=n!/(n-m)!(ответ)
+A_n^m=n!/m!(n-m)!
+A_n^m=n-m!
+A_n^m=m-n!
+A_n^m=1
+	  The number of all possible combinations   
+C_n^m=n!/m!(n-m)!(ответ)
+C_n^m=n!/(n-m)!
+C_n^m=m!/n!
+C_n^m=n!/m!
+C_n^m=n!
+	How many ways are there to choose 2 details from a box containing 9 details?
+12
+4
+22
+11
+36(ответ)
+	 The numbers of allocations, permutations and combinations are connected by the equality
+A_n^m=P_m C_n^m(ответ)
+A_n^m=P_n C_n^m
+A_n^m=P_m
+A_n^m=P_m C_m^n
+A_n^m=n!C_n^m
+	If some object A can be chosen from the set of objects by m ways, and another object B can be chosen by n ways, then we can choose either A or B by … ways.
+m+n(ответ)
+m-n
+n-m
+n!
+C_n^m
+	Events are equally possible if …
+none of them will necessarily happen as a result of a trial
+there is reason to consider that none of them is more possible (probable) than other(ответ)
+there is reason to consider that one of them is more possible (probable) than other
+at least one of them will necessarily happen as a result of a trial
+one of them will necessarily happen as a result of a trial
+	The probability of the event A is determined by the formula
+P(A)=(|Ω|)/(|A|), where   is the space of elementary outcomes
+P(A│B)=(|A|)/(|B|), where   is the space of elementary outcomes
+P(A)=| A|/(|Ω|), where   is the space of elementary outcomes(ответ)
+P(A)=λ^m/m! e^(-λ), where λ is the space of elementary outcomes
+P(B│A)=λ^m/m!, where   is the space of elementary outcomes
+	The probability of a reliable event is equal to …
+1(ответ)
+0
+½
+1/3
+1/5
+	The probability of an impossible event is equal to …
+0(ответ)
+1
+½
+1/3
+1/5
+	The probability of a random event is …
+the positive number between 0 and 1(ответ)
+the positive number between 0 and ½
+the positive number between 0 and 10
+the positive number between 0 and 1/3
+the positive number between 0 and 1/5
+	The relative frequency of the event A is defined by the formula:
+W(A)=m/n, where m is the number of appearances of the event, n is the total number of trials. (ответ)
+W(A)=m/n, where n is the number of appearances of the event, m+1 is the total number of trials.
+W(A)=m/n, where m+1 is the number of appearances of the event, n is the total number of trials.
+W(A)=(m+1)/n, where m is the number of appearances of the event, n is the total number of trials.
+W(A)=m/(n+1), where m is the number of appearances of the event, n is the total number of trials.
+	There are 100 identical details (and 20 of them are painted) in a box. Find the probability that the first randomly taken detail will be painted.
+1/20
+1/5(ответ)
+½
+1/10
+1/9
+	A die is tossed. Find the probability that an even number of aces will appear.
+½(ответ)
+1
+0
+1/5
+1/9
+	Participants of a toss-up pull a ticket with numbers from 1 up to 30 from a box. Find the probability that the number of the first randomly taken ticket contains the digit 2.
+1/30
+1/3
+½
+2/5(ответ)
+1/5
+	 In a batch of 8 details the quality department has found out 3 non-standard details. What is the relative frequency of appearance of non-standard details equal to?
+½
+1
+3/11
+3/8(ответ)
+3/5
+	 At shooting by a rifle the relative frequency of hit in a target has appeared equal to 0,4. Find the number of hits if 20 shots were made.
+8(ответ)
+3
+20
+1
+6
+	  Two dice are tossed. Find the probability that different number of aces will appear on dices
+1/6
+5/6(ответ)
+½
+1/3
+1
+	 Two dice are tossed. Find the probability that the sum of aces will exceed 10.
+1/12(ответ)
+5/12
+5/18
+1/18
+0
+	 An urn contains 15 balls: 4 white, 6 black and 5 red. Find the probability that a randomly taken ball will be red or white.
+3/7
+4/15
+3/5(ответ)
+6/15
+1
+	 12 seeds have germinated of 60 planted seeds. Find the relative frequency of germination of seeds.
+1/5(ответ)
+4/5
+1/60
+1/12
+1
+	 A point C is randomly appeared in a segment AB of the length 5. Determine the probability that the distance between C and B doesn’t exceed 1.
+2/5
+1/5(ответ)
+4/5
+0
+½
+	 A coin is tossed twice. Find the probability that the coin lands on tails in both times.
+1/4(ответ)
+3/4
+1/3
+½
+0
+	 There are 200 details in a box. It is known that 150 of them are details of the first kind, 10 – the second kind, and the rest – the third kind. How many ways of extracting a detail of the first or the third kind from the box are there?
+190(ответ)
+10
+40
+200
+150
+	If an object A can be chosen from the set of objects by m ways and after every such choice an object B can be chosen by n ways then the pair of the objects (A, B) in this order can be chosen by ...  ways.
+mn(ответ)
+m+n
+n-m
+n!
+N
+	There are 12 students in a group. It is necessary to choose a leader, its deputy and head of professional committee. How many ways of choosing them are there?
+1320(ответ)
+480
+12
+144
+1630
+	5 of 20 students have sport categories. What is the probability that 3 randomly chosen students have sport categories?
+1/114(ответ)
+3/5
+1/10
+1/57
+1/1218
+	A box contains 5 red, 6 green and 4 blue pencils. 3 pencils are randomly extracted from the box. Find the probability that all the extracted pencils are different color.
+4/19
+15/91
+24/91(ответ)
+3/19
+3/91
+	It has been sold 12 of 15 refrigerators of three marks available in quantities of 5, 7 and 3 units in a shop. Assuming that the probability to be sold for a refrigerator of each mark is the same, find the probability that refrigerators of one mark have been unsold.
+0,101(ответ)
+0,016
+0,984
+0,53
+0,8
+	 A shooter has made three shots in a target. Let Ai be the event «hit by the shooter at the i-th shot» (i = 1, 2, 3). Express by A1, A2, A3 and their negations the following event A – «only two hit».
+A_1 A_2^c A_3^c+A_1^c A_2 A_3^c+A_1^c A_2^c A_3
+A_1 A_2^c+A_2 A_3^c+A_1^c A_2^c
+A_1 A_2^c A_3+A_1 A_2 A_3^c+A_1^c A_2 A_3(ответ)
+A_1 A_2+A_2 A_3+A_3 A_1
+A_1+A_2-A_3 A_1 A_2
+	The probability of appearance of any of two incompatible events is equal to:
+P(A+B)=P(A)+P(B)(ответ)
+P(A+B)=P(A)-P(B)
+P(A+B)=P(A)P(B)
+P(AB)=P(A)+P(B)
+P(A)=P(A+B)
+	There are 20 balls in an urn: 3 red, 2 blue and 15 white. Find the probability of appearance of a color (red or blue) ball.
+1/4(ответ)
+1
+3/4
+1/20
+1/15
+	A shooter shoots in a target subdivided into three areas. The probability of hit in the first area is 0,5 and in the second – 0,3. Find the probability that the shooter will hit at one shot either in the second area or in the third area.
+0,5(ответ)
+0,9
+1
+0,7
+0,8
+	The sum of the probabilities of events A1, A2,…, An which form a complete group is equal to …
+1(ответ)
+0
+½
+1/5
+1/3
+	A consulting point of an institute receives packages with control works from the cities A, B and С. The probability of receiving a package from the city A is equal 0,2; from the city B – 0,2. Find the probability that next package will be received from the city С.
+0,5
+0,9
+0,6(ответ)
+0,8
+1
+	Two uniquely possible events forming a complete group are …
+Opposite(ответ)
+Same
+Identically distributed
+Sample
+Density function
+	The sum of the probabilities of opposite events is equal to …
+1(ответ)
+0
+½
+1/3
+1/5
+	The probability that a day will be rainy is p = 0,75. Find the probability that a day will be clear.
+0,25(ответ)
+0,3
+0,15
+0,75
+1
+	 The conditional probability of an event A with the condition that an event B has already happened is equal to:
+P(A|B)=P(AB)/P(B) (ответ)
+P(A|B)=(P(AB))/(P(A))
+P(A|B)=P(A)/P(B) 
+P(A|B)=P(B)/P(A) 
+P(A|B)=(P(B))/(P(AB))
+	There are 4 conic and 8 elliptic cylinders at a collector. The collector has taken one cylinder, and then he has taken the second cylinder. Find the conditional probability that the second taken cylinder is elliptic given that the first was conic.
+8/11(ответ)
+1/4
+8/33
+1/2
+2/3
+	There are 4 white, 5 black and 6 blue balls in an urn. Each trial consists in extracting at random one ball without replacement. Find the probability that a white ball will appear at the first trial (the event A), a black ball will appear at the second trial (the event B), and a blue ball will appear at the third trial (the event C).
+1/22
+4/91(ответ)
+1/8
+8/225
+½
+	The events A, B, C and D form a complete group. The probabilities of the events are those: P(A) = 0,1; P(B) = 0,49; P(C) = 0,3. What is the probability of the event D equal to?
+0,11(ответ)
+0,5
+0,2
+0,4
+0,1
+	For independent events theorem of multiplication has the following form:
+P(AB)=P(A)P(B)(ответ)
+P(AB)=P(A)+P(B)
+P(AB)=(P(A))/P(B) 
+P(AB)=P(A)-P(B)
+P(AB)=1
+	Find the probability of joint hit in a target by two guns if the probability of hit in the target by the first gun (the event A) is equal to 0,3; and by the second gun (the event B) – 0,5.
+0,35
+0,15(ответ)
+0,2
+0,8
+0,5
+	There are 3 boxes containing 10 details each. There are 5 standard details in the first box, 6 – in the second and 3 – in the third box. One takes at random on one detail from each box. Find the probability that all three taken details will be standard.
+0,09(ответ)
+0,5
+0,14
+0,49
+0,27
+	The probabilities of hit in a target at shooting by three guns are the following: p1 = 0,6; p2 = 0,7; p3 = 0,5. Find the probability of at least two hits at one shot by all three guns.
+0,874
+0,65(ответ)
+0,94
+0,09
+0,76
+	There are 3 flat-printing machines at typography. For each machine the probability that it works at the present time is equal to 0,6. Find the probability that at least one machine works at the present time.
+0,9714
+0,256
+0,36
+0,784
+0,936(ответ)
+	What is the probability that at tossing two dice 3 aces will appear at least on one of the dice?
+0,306(ответ)
+0,278
+0,421
+0,529
+0,386
+	Three shots are made in a target. The probability of hit at each shot is equal to 0,6. Find the probability that only two hits will be in result of these shots.
+0,432(ответ)
+0,204
+0,512
+0,288
+0,592
+	Three students pass an exam. The probability that the exam will be passed on "excellent" by the first student is equal to 0,5; by the second – 0,2; and by the third – 0,8. What is the probability that the exam will be passed on "excellent" by only one student?
+0,42(ответ)
+0,48
+0,92
+0,28
+0,99
+	Three students pass an exam. The probability that the exam will be passed on "excellent" by the first student is equal to 0,5; by the second – 0,3; and by the third – 0,7. What is the probability that the exam will be passed on "excellent" by exactly two students?
+0,464
+0,395(ответ)
+0,12
+0,192
+0,48
+	Three students pass an exam. The probability that the exam will be passed on "excellent" by the first student is equal to 0,3; by the second – 0,7; and by the third – 0,8. What is the probability that the exam will be passed on "excellent" by at least one student?
+0,958(ответ)
+0,93
+0,465
+0,15
+0,848
+	Three students pass an exam. The probability that the exam will be passed on "excellent" by the first student is equal to 0,3; by the second – 0,7; and by the third – 0,8. What is the probability that the exam will be passed on "excellent" by neither of the students?
+0,042(ответ)
+0,95
+0,46
+0,07
+0,84
+	Three buyers went in a shop. The probability that each buyer makes purchases is equal to 0,8. Find the probability that two of them will make purchases.
+0,384(ответ)
+0,7
+0,189
+0,96
+0,904
+	Four buyers went in a shop. The probability that each buyer makes purchases is equal to 0,5. Find the probability that three of them will make purchases.
+0,25(ответ)
+0,096
+0,95
+0,125
+0,712
+	Four buyers went in a shop. The probability that each buyer makes purchases is equal to 0,8. Find the probability that only one of them will make purchases.
+0,0256(ответ)
+0,568
+0,0441
+0,064
+0,144
+	There are 5 details made by the factory № 1 and 15 details of the factory № 2 at a collector. Two details are randomly taken. Find the probability that at least one of them has been made by the factory № 1.
+17/38(ответ)
+5/19
+16/19
+1/5
+1/16
+	There are 5 details made by the factory № 1 and 15 details of the factory № 2 at a collector. Two details are randomly taken. Find the probability that at least one of them has been made by the factory № 2.
+18/19(ответ)
+5/19
+16/19
+1/5
+1/16
+	10 of 20 savings banks are located behind a city boundary. 4 savings banks are randomly selected for an inspection. What is the probability that among the selected banks appears inside the city 2 savings banks?
+0.418(ответ)
+0.07
+0.5
+0.6
+0.23
+	The probabilities that three men hit a target are respectively 1/3, 1/4 and 1/2. Each man shoots once at the target. What is the probability that exactly one of them hits the target?
+19/40
+21/24
+11/24(ответ)
+3/4
+17/72
+	A problem in mathematics is given to three students whose chances of solving it are 2/3, 3/4, 2/5. What is the probability that the problem will not be solved?
+19/20
+17/20
+15/20
+1/20(ответ)
+1
+	A problem in mathematics is given to three students whose chances of solving it are 1/3, 3/4, 3/5. What is the probability that the problem will be solved?
+9/15
+13/15
+3/4
+14/15(ответ)
+1
+	There are two sets of details. The probability that a detail of the first set is standard is equal to 0,7; and of the second set – 0,4. Find the probability that a randomly taken detail (from a randomly taken set) is standard.
+ 0.8
+0.5
+0.45
+0.55(ответ)
+0.2
+	There are two sets of details. The probability that a detail of the first set is standard is equal to 0,7; and of the second set – 0,4. Find the probability that a randomly taken detail (from a randomly taken set) is not standard.
+0.8
+0.5
+0.45(ответ)
+0.55
+0.2
+	An urn contains 10 balls: 3 red and 7 blue. A second urn contains 6 red balls and an unknown number of blue balls. A single ball is drawn from each urn. The probability that both balls are the same color is 0.54 . Calculate the number of blue balls in the second urn.
+9(ответ)
+2
+4
+5
+6
+	The probability that a boy will not pass M.B.A. examination is 1/5 and that a girl will not pass is 3/5. Calculate the probability that at least one of them passes the examination.
+11/25
+13/25
+1/2
+22/25(ответ)
+16/25
+	The probability that a boy will not pass M.B.A. examination is 1/5 and that a girl will not pass is 3/5. Calculate the probability that exactly one of them passes the examination.
+11/25
+22/25
+1/2
+14/25(ответ)
+16/25
+	A bag contains 6 red discs and 4 blue discs. If 3 discs are drawn from the bag without replacement, find the conditional probability that all three will be blue given that one of them is blue.
+1/33(ответ)
+5/33
+11/16
+4/165
+1/3
+	A bag contains 4 white, 6 red and 10 black balls. Four balls are drawn one by one with replacement, what is the probability that at least one is white?
+ 
+ (ответ)
+ 
+0.7182
+ 
+	 Find the Bernoulli formula
+ 
+ (ответ)
+ 
+ 
+ 
+	 How would it change the expected value of a random variable X if we multiply the X by a number k. 
+ (ответ)
+ 
+ 
+ 
+ 
+	Which of the following expressions indicates the occurrence of exactly one of the events A, B, C? 
+ 
+ 
+ (ответ)
+ 
+ 
+	 Find the dispersion for the given probability distribution. 
+X	0	2	4	6
+P(x)	0.05	0.17	0.43	0.35
+1.56
+2.85(ответ)
+1.69
+2.44
+1.72
+	The table below shows the probability distribution function of a random variable X. 
+xi	0	x2	5
+pi	0.1	0.4	0.5
+      If M[X]=5,3  find the value of x2.  
+3
+1
+8
+7(ответ)
+10
+	Indicate the formula of computing the dispersion of a random variable X with mathematical expectation µ.
+ (ответ)
+ 
+ 
+ 
+ 
+	 How would it change the dispersion of a random variable X if we add a number   to the X.
+D(X+a)=D(X)+a
+D(X+a)=D(X)+a2
+D(X+a)=D(X) (ответ)
+D(X+a)= D(X)
+D(X+a)= a2D(X)
+	The probability of machine failure in one working day is equal to 0.02. What is the probability that the machine will work without failure for 4 days in a row. 
+0.9998
+0.922(ответ)
+0.99
+0.058
+0.55
+	The cumulative distribution function of a discrete random variable X is given by    	Find P(3≤X<8).
+0,4
+0,3(ответ)
+0,6
+0,9
+0,5
+	The cumulative distribution function of a discrete random variable X is given by    	Find P(2≤X<5).
+0,4
+0,3(ответ)
+0,6
+1
+0,5
+	A fair die is rolled three times. A random variable X denotes the number of occurrences of 6’s. What is the probability that X will have the value which is not equal to 3. 
+91/216
+125/216
+25/216
+1/216
+215/216(ответ)
+	Find the expectation of a random variable X if the cumulative distribution function  .
+5(ответ)
+  
+4
+6
+1/5
+	Compute the expectation for the continuous random variable X with probability density function  .
+
+2/5
+0
+1/6(ответ)
+1
+does not exist
+	If the dispersion of a random variable X is given D(X)=5. Then D(2X)  is
+20(ответ)
+26
+8
+10
+4
+	Indicate the expectation of a Poisson random variable X with parameter  .
+0
+ (ответ)
+ 
+ 
+ 
+	Indicate the expectation of a random variable X distributed under the exponential law with parameter  .
+0
+ (ответ)
+ 
+ 
+ 
+	Indicate the dispersion of a Poisson random variable X with parameter  .
+ (ответ)
+0
+ 
+ 
+ 
+	The table below shows the distribution of a random variable X. What is the D(X)?
+X	-2	1	2
+Р	0,2	0,5	0,3
+
+2,01(ответ)
+1,67
+4,71
+0,7
+4,7
+	The table below shows the distribution of a random variable X. What is the M(X)?
+X	-2	1	2
+Р	0,2	0,5	0,3
+
+0,7(ответ)
+0,5
+4
+0,34
+4,7
+	The lifetime of a machine part has a continuous distribution on the interval (0, 20) with probability density function  . Calculate the probability that the lifetime of the machine part is less than 6.
+0.04
+0.15
+0.56(ответ)
+0.53
+0.94
+	 The lifetime of a machine part has a continuous distribution on the interval (0, 20) with probability density function  . Calculate the probability that the lifetime of the machine part is less than 5. 
+0.03
+0.13
+0.5(ответ)
+0.8
+0.97
+	If  D(X)=3, find D(-3X+4).
+12
+-5
+19
+27(ответ)
+-9
+	If  D(X)=3, find D(2X-3).
+10
+9
+3
+12(ответ)
+-9
+	The table below shows the distribution of a random variable X. Find M[x] and D(X).
+X	-2	0	1
+P	0.1	0.5	0.4
+
+M[X]= 0,2;  D(X) =0.8
+M[X]= 0,3;  D(X) =0.27 
+M[X]= 0,2;  D(X) =0.76 (ответ)
+M[X]= 0,2;  D(X) =0.21                 
+M[X]= 0,8;  D(X) =0.24
+	What kind of distribution is given by the density function    ( )?
+Poisson distribution 
+Normal distribution  (ответ)
+Uniform distribution 
+Bernoulli distribution
+Exponential distribution
+	If a fair die is tossed twice, the probability that the first toss will be a number less than 3 and the second toss will be greater than 5 is
+1/3
+5/18
+1/18(ответ)
+3/18
+0
+	A class consists of 460 female and 540 male students. The students are divided according to their marks 
+              	Passed	Did not pass
+Female	400	60
+Male	440	100
+If one person is selected randomly, the probability that it did not pass given that it is female is: 
+0.06
+0.13(ответ)
+0.15
+0.101
+none of the shown answers
+	Marks on a Chemistry test follow a normal distribution with an expectation of 65 and a mean square deviation of 12. Approximately what percentages of the students have scores below 50?
+11%(ответ)
+89%
+15%
+18%
+39%
+	Suppose the test scores of 10000 students are normally distributed with an expectation of 76 and mean square deviation of 8. The number of students scoring between 60 and 82 is:
+2728
+1646
+2605
+1360
+7506(ответ)
+	The distribution of weights in a large group is approximately normally distributed. The expectation is 80 kg. and approximately 68,26% of the weights are  between 70 and 90 kg. The mean square deviation of the distribution of weights is equal to:
+20
+5
+40
+50
+10(ответ)
+	If the probability density function of a continuous random variable X is  
+  then   is
+0.56
+0.312
+0.1875(ответ)
+0.4
+0.1245
+	Let X be a continuous random variable with density function     Calculate the expected value of X.
+1/5
+3/5
+1
+28/15(ответ)
+12/15
+	If the probability density function of a continuous random variable X is                   then the value of k is
+1/2
+0,25
+1/9(ответ)
+0,3
+Any positive value greater than 2
+	A continuous random variable X is uniformly distributed over the interval [15, 21]. The expected value of X is 
+16
+18(ответ)
+10
+3
+6
+	How many different two-member teams can be formed from six students?
+15(ответ)
+12
+21
+72
+3
+	How many different 3-letter arrangements can be formed using the letters in the word ABSENT, if each letter is used only once?
+6
+36
+120(ответ)
+46.656
+72
+	If P(E) is the probability that an event will occur, which of the following must be false?
+P(E)=1
+P(E)=1/2
+P(E)=1/3
+P(E)= - 1/3(ответ)
+P(E)=0
+	A die is rolled. What is the probability that the number rolled is greater than 3 and even? 
+1/2
+1/3(ответ)
+2/3
+5/6
+0
+	The cumulative distribution function for continuous random variable X is given by  .  Find the dispersion D(X). 
+ 
+ 
+ (ответ)
+ 
+ 
+	A continuous random variable X uniformly distributed on [-1;7]. Find M[X] and D(X).
+4 and  
+  and 3
+3 and  (ответ)
+  and  2
+2  and  
+	A continuous random variable X is exponentially distributed with the density  . What is the M[X] and D(X)? 
+   and  
+  and  
+  and  (ответ)
+  and  
+  and  
+	 How many different 6-letter arrangements can be formed using the letters in the word ABSENT, if each letter is used only once?
+6
+36
+720(ответ)
+46
+1440
+	Evaluate 0!+1!+4!
+5
+13
+26(ответ)
+25
+24
+	Evaluate 6!-5!
+5
+6
+600(ответ)
+25
+24
+	Your state issues license plates consisting of letters and numbers. There are 26 letters and the letters may be repeated. There are 10 digits and the digits may be repeated. How many possible license plates can be issued with two letters followed by two numbers?
+2500
+6760
+25000
+67600(ответ)
+2500
+	  A random variable X has the cumulative distribution function  
+Compute the expectation of X.
+7/72
+1/8
+5/3(ответ)
+4/3
+23/12
+	A fair coin is thrown in the air five times. If the coin lands with the head up on the first four tosses, what is the probability that the coin will land with the head up on the fifth toss?
+0
+1/16
+1/8
+1/2(ответ)
+1/4
+	A movie theatre sells 3 sizes of popcorn (small, medium, and large) with 3 choices of toppings (no butter, butter, extra butter). How many possible ways can a bag of popcorn be purchased?
+1
+3
+9(ответ)
+27
+62
+	A random variable Y has the following distribution:  
+Y	-1	0	1	2
+P(Y)	C	4C	0.4	0.1
+    The value of the constant C is:
+0.10(ответ)
+0.15
+0.20
+0.25
+0.75
+	 A random variable X has a probability distribution as follows: 
+X	0	1	2	3
+P(X)	2k	4k	12k	2k
+Then the probability that P(X < 2) is equal to
+0.9
+0.3(ответ)
+0.6
+0.2
+1
+	Which one of these variables is a continuous random variable?
+The time it takes a randomly selected student to complete an exam. (ответ)
+The number of  tattoos a randomly selected person has.
+The number of women taller than 68 inches in a random sample of 5 women.
+The number of correct guesses on a multiple choice test.
+The number of 1’s in N rolls of a fair die
+	Heights of college women have a distribution that can be approximated by a normal curve with an expectation of 65 inches and a mean square deviation equal to 3 inches. About what proportion of college women are between 65 and 68 inches tall?
+0.75
+0.5
+0.34(ответ)
+0.17
+0.25
+	The probability is p = 0.85 that a patient with a certain disease will be successfully treated with a new medical treatment. Suppose that the treatment is used on 40 patients. What is the "expected value" of the number of patients who are successfully treated?
+40
+20
+8
+34(ответ)
+124
+	Given a normal distribution with µ=90 and σ=10, what is the probability that X>75?
+0.93(ответ)
+0.25
+0.49
+0.45
+0.01
+	For a continuous random variable X, the probability density function f(x) represents 
+the probability at a fixed value of  X
+the area under the curve at X (ответ)
+the area under the curve to the right of X
+the height of the function at X
+the integral of  the cumulative distribution function
+	Two events each have probability 0.3 of occurring and are independent. The probability that neither occur is 
+0.49(ответ)
+0.51
+0.3
+0.6 
+none of the given answers 
+	A class consists of 490 female and 510 male students. The students are divided according to their marks Passed and Did not pass 
+
+	Passed 	Did not pass
+Female	430	60
+Male 	410	100
+If one person is selected randomly, what is the probability that it did not pass given that it is male. 
+0.17
+0.21
+0.42
+0.08
+0.196(ответ)
+	A student can solve 6 from a list of 10 problems. For an exam 8 questions are selected at random from the list. What is the probability that the student will solve exactly five problems?
+0.98
+0.02
+0.28
+0.53(ответ)
+None of the shown answers
+	Suppose that 10% of people are left handed. If 6 people are selected at random, what is the probability that exactly 2 of them are left handed?
+0.031
+0.053
+0.098(ответ)
+0.0100
+0.29
+	Suppose a computer chip manufacturer rejects 15% of the chips produced because they fail presale testing. If you test 4 chips, what is the probability that not all of the chips fail?
+0.9995(ответ)
+0,00005
+ 0.15
+ 0.6
+0.5220
+	Which of these has a Geometric model? 
+the number of aces in a five-card Poker hand
+the number of people we survey 
+the number of people in a class of 25 who have taken Statistics
+the number of people we survey until we find someone who has taken Statistics(ответ)
+the number of sodas students drink per day
+	In a certain town, 55% of the households own a cellular phone, 40% own a pager, and 25% own both a cellular phone and a pager. The proportion of households that own neither a cellular phone nor a pager is
+90%
+70%
+10%
+30%(ответ)
+25%
+	Suppose that the random variable T has the following probability distribution:   
+T	0	1	2
+P(T=t)	0.4	0.4	0.2
+Find  . 
+0.8
+0.4(ответ)
+0.3
+0.2
+0
+	Which of the following is an example of a discrete random variable?
+The distance you can drive in a car with a full tank of gas.
+The weight of a package at the post office.
+The amount of rain that falls over a 24-hour period.
+The number of cows on a cattle ranch. (ответ)
+The time that a train arrives at a specified stop.
+	Which of the following is the appropriate definition for the union of two events A and B?
+The set of all possible outcomes.
+The set of all basic outcomes contained within both A and B.
+The set of all basic outcomes in either A or B, or both. (ответ)
+None of the given answers
+The set of all basic outcomes that are not in A and B. 
+	 Johnson taught a music class for 20 students under the age of ten. He randomly chose one of them. What was the probability that the student was under eleven?
+1(ответ)
+0.5
+1/25
+0
+0.25
+	The compact disk Jane bought had 12 songs. The first five were rock music. Tracks number 6 through 12 were ballads. She selected the random function in her CD Player. What is the probability of first listening to a ballad?
+1/3
+2/3
+5/12
+1/6
+7/12(ответ)
+	Two fair dice, one red and one blue, each have numbers 1-6. If a roll of the two dice totals 6, what is the probability that the red die is showing a 3?
+1/6
+1/5(ответ)
+1/3
+5/6
+1/18
+	A regular deck of 52 cards contains 4 different suits (Spades, Hearts, Diamonds, and Clubs) that each have 13 cards. If you randomly choose two cards from the deck, what is the probability that both cards will all be Spades?
+1/17(ответ)
+2/17
+1/4
+4/17
+33/68
+	A standard deck of 52 cards contains 4 different suits (Spades, Hearts, Diamonds, and Clubs) that each have 13 cards. What is the probability of drawing a Diamond from a standard deck of 52 cards?
+1/52
+13/39
+1/13
+1/4(ответ)
+1/2
+	One card is randomly selected from a shuffled deck of 52 cards and then a die is rolled. Find the probability of obtaining an Ace and rolling an odd number.
+1/104
+7/13
+1/39
+1/26(ответ)
+1/36
+	The probability density function of a random variable X is given by .
+What are the values of µ and σ?
+ 
+ 
+ (ответ)
+ 
+ 
+	In the first step, Joe draws a hand of 5 cards from a deck of 52 cards. What is the probability that Joe has exactly one ace?  
+0.2995(ответ)
+0.699
+0.23336
+1/4
+0.4999
+	The number of clients arriving each hour at a given branch of a bank asking for a given service follows a Poisson distribution with parameter λ=4. It is assumed that arrivals at different hours are independent from each other. The probability that in a given hour at most 2 clients arrive at this specific branch of the bank is:
+2e^(-4)
+〖3e〗^(-4)
+〖6e〗^(-4)
+8e^(-4)(ответ)
+〖8e〗^(-2)
+	Table shows the cumulative distribution function of a random variable X. Determine  .
+X	1	2	3	4
+F(X)	1/8	1/4	3/4	1
+1/8
+5/8
+1/2
+3/4(ответ)
+1/3
+	Table shows the cumulative distribution function of a random variable X. Determine  .
+X	1	2	3	4
+F(X)	1/8	3/8	3/4	1
+1/8
+1
+1/2
+3/4
+1/4(ответ)
+	Which of the following statements is always true for A and Ac?
+P(AAc)=1
+P(Ac)=P(A)
+P(A+Ac)=0
+P(AAc)=0(ответ)
+None of the given statements is true
+	A box contains 5 red and 4 white marbles. Two marbles are drawn successively from the box without replacement and it is noted that the second one is white. What is the probability that the first is also white? 
+1/3
+3/8(ответ)
+5/8
+1/8
+1
+	If  P(A)=1/2 and P(B)=1/2 then P(A∩B)=
+1/4, always
+1/4, if A and B are independent(ответ)
+1/2, always
+1/2, if A and B are independent
+None of the given answers
+	Suppose that P(A|B)=3/5, P(B)=2/7, and P(A)=1/4. Determine P(B|A). 
+24/75
+24/35(ответ)
+6/35
+12/75
+None of the given answers
+	A class contains 8 boys and 7 girls. The teacher selects 3 of the children at random and without replacement. Calculate the probability that the number of boys selected exceeds the number of girls selected. 
+512/3375
+28/65
+8/15
+1856/3375
+36/65(ответ)
+	If the dispersion of a random variable X is equal to 3, then D(2X) is : 
+12(ответ)
+6
+3
+1
+9
+	Indicate the correct statement related to Poisson  random variable   .
+ ,  
+ ,  
+ ,   
+ ,   is const
+None of the given answers is correct
+	We are given the probability distribution functions of two random variables X and Y shown in the tables below.  
+X	1	3	Y	2	4
+P	0.4	0.6	P	0.2	0.8
+Find M[X+Y].
+5,8(ответ)
+2,2
+2
+8,8
+10
+	The probability density function of a random variable X is given by  . Calculate the parameter  . 
+0
+4(ответ)
+1,5
+2
+3,5
+	Suppose that the random variable T has the following probability distribution:    
+T	0	1	2
+P	0.5	0.3	0.2
+Compute the expectation of the random variable T.
+0.8
+0.5
+0.7(ответ)
+0.1
+1
+	Probability density function of the normal random variable X is given by    . What is the mean square deviation?
+5(ответ)
+3
+25
+50
+9
+	The event A occurs in each of the independent trials with probability p. Find probability that event A occurs at least once in the 5 trials. 
+ 
+ (ответ)
+ 
+ 
+None of the given answers is  correct 
+	The cumulative distribution function of a random variable X is given by             Find the probability P(1.7≤X<1.9).
+0,16
+0,8
+1
+0,4(ответ)
+0.6
+	In each of the 20 independent trials the probability of success is 0.2. Find the dispersion of the number of successes in these trials. 
+0
+1
+10
+3.2(ответ)
+0.32
+	A coin tossed three times. What is the probability that head appears three times?
+1/8(ответ)
+0
+4:1
+1
+8:1
+	Choose the density function of random variable X~Exp(λ)
+ (ответ)
+ 
+ 
+ 
+ 
+	Choose the probability distribution function of random variable X~Pois(λ)
+ (ответ)
+ 
+ 
+ 
+ 
+	Choose the probability density function of random variable X~N(a,σ^2)
+ (ответ)
+ 
+ 
+ 
+ 
+	The mathematical expectation and dispersion of a random variable X distributed under the binomial law are …, respectively.
+EX=np,DX=npq(ответ)
+EX=npq,DX=np
+EX=C_n^k np,DX=npq
+EX=np,DX=C_n^k npq
+EX=np,DX=λ
+	The mathematical expectation and the dispersion of a random variable distributed under the Poisson are …, respectively.
+EX=λ,DX=λ(ответ)
+EX=λ^2,DX=λ
+EX=λ,DX=λ^2
+EX=pqλ,DX=npλ
+EX=λ,DX=λ^3
+	The probability distribution function of random variable X~Geom(p) is
+P(X=m)=pq^(m-1)(ответ)
+ 
+ 
+ 
+ 
+	The mathematical expectation and dispersion of a random variable X having the geometrical distribution with the parameter p are …, respectively.
+EX=1/p,DX=q/p^2 (ответ)
+EX=npq,DX=np
+EX=1/p,DX=p/q^2 
+EX=q/p,DX=q/p^2 
+EX=np,DX=λ
+	Find the density function of random variable X~U[a,b]
+ 
+ 
+ (ответ)
+ 
+ 
+	The mathematical expectation and dispersion of a random variable X having the uniformly distribution on [a,b] are …, respectively.
+EX=(a+b)/2,DX=(b-a)^2/12(ответ)
+EX=(a-b)/2,DX=(b-a)^2/12
+EX=(a+b)/2,DX=(b+a)^2/12
+EX=q/p,DX=q/p^2 
+EX=(a+b)/2,DX=(b-a)^2/15
+	A normally distributed random variable X is given by the differential function:   . Find the interval in which the random variable X will hit in result of trial with the probability 0,9973.
+(-3,3) (ответ)
+(-2,2)
+(-1,1)
+(a-b/2, a+b/2)
+(0,3)
+	There are 10 white, 15 black, 20 blue and 25 red balls in an urn. One ball is randomly extracted. Find the probability that the extracted ball is blue or red.
+5/14
+1/70
+1/7
+9/14(ответ)
+3/98
+	A random variable X is given by the integral function of distribution:
+   
+Calculate the probability of hit of the random variable X in the interval (0; 2).
+0,5(ответ)
+0
+¼
+1
+2/3
+	A random variable X has the following law of distribution:
+
+xi	0	1	2	3
+pi	1/30	3/10	½	1/6
+
+Find the mathematical expectation of X.
+1
+1,5
+2
+1,8(ответ)
+2,3
+	A random variable X is given by the integral function of distribution: 
+   
+Find the probability of hit of the random variable X into the interval (2; 3).
+0,25
+0,5(ответ)
+1/3
+2/3
+1
+	Write the density of probability of a normally distributed random variable X if M(X) = 5, D(X) = 16.
+ 
+ (ответ)
+ 
+ 
+ 
+	An urn contains 5 red, 3 white, and 4 blue balls. What is the probability of extracting a black ball from the urn?
+1/3
+0(ответ)
+0,25
+0,5
+5/12                           
+	Find the Bernoulli formula
+ 
+ (ответ)
+ 
+ 
+ 
+xi	2	3	6	9
+pi	0,1	0,4	0,3	0,2
+	A discrete random variable X is given by the following law of distribution:
+
+
+
+
+By using Chebyshev inequality estimate the probability that |X-M(X)|>3.
+2/3(ответ)
+1/3
+1/6
+5/6
+1
+	Find the mathematical expectation M(X) of a random variable X, knowing its law of distribution:
+xi	6	3	1
+pi	0,2	0,3	0,5
+
+
+
+3,4
+2,8
+2,6(ответ)
+2,4
+0,76
+	A group consists of 10 students, and 5 of them are pupils with honor. 3 students are randomly selected. Find the probability that 2 pupils with honor will be among the selected.
+5/12(ответ)
+1/10
+2/3
+2/5
+1/6
+	An auto insurance company has 10,000 policyholders. Each policyholder is classified as 
+(i) young or old; 
+(ii) male or female; and 
+(iii) married or single. 
+Of these policyholders, 3000 are young, 4600 are male, and 7000 are married. The policyholders can also be classified as 1320 young males, 3010 married males, and 1400 young married persons. Finally, 600 of the policyholders are young married males. Calculate the number of the company’s policyholders who are young, female, and single.
+280 
+880(ответ)
+423
+486 
+896  
+	The number of injury claims per month is modeled by a random variable N with 
+P[N=n}=1/((n+1)(n+2)), for nonnegative integers, n. 
+Calculate the probability of at least one claim during a particular month, given that there have been at most four claims during that month. 
+1/3 
+1/2
+2/5 (ответ)
+3/5 
+5/6 
+	A blood test indicates the presence of a particular disease 95% of the time when the disease is actually present. The same test indicates the presence of the disease 0.5% of the time when the disease is not actually present. One percent of the population actually has the disease. Calculate the probability that a person actually has the disease given that the test indicates the presence of the disease.
+0.324 
+0.945
+0.657(ответ)
+0.950
+0.995
+	The probability that a randomly chosen male has a blood circulation problem is 0.25. Males who have a blood circulation problem are twice as likely to be smokers as those who do not have a blood circulation problem. Calculate the probability that a male has a blood circulation problem, given that he is a smoker.
+1/4 
+1/3
+2/5 (ответ)
+1/2
+2/3
+	An actuary has discovered that policyholders are three times as likely to file two claims as to file four claims. The number of claims filed has a Poisson distribution. Calculate the variance of the number of claims filed.
+1/√3 
+1
+2(ответ)
+√2
+4
+	A large pool of adults earning their first driver’s license includes 50% low-risk drivers, 30% moderate-risk drivers, and 20% high-risk drivers. Because these drivers have no prior driving record, an insurance company considers each driver to be randomly selected from the pool. This month, the insurance company writes four new policies for adults earning their first driver’s license. Calculate the probability that these four will contain at least two more high-risk drivers than low-risk drivers.
+0.006
+0.012
+0.049(ответ)
+0.018
+0.073
+	A company prices its hurricane insurance using the following assumptions: 
+(i) In any calendar year, there can be at most one hurricane. 
+(ii) In any calendar year, the probability of a hurricane is 0.05. 
+(iii) The numbers of hurricanes in different calendar years are mutually independent. 
+Using the company’s assumptions, calculate the probability that there are fewer than 3 hurricanes in a 20-year period.
+0.06
+0.19
+0.92(ответ)
+0.38
+0.62
+	An insurance policy pays 100 per day for up to three days of hospitalization and 50 per day for each day of hospitalization thereafter. The number of days of hospitalization, X, is a discrete random variable with probability function 
+P[X=k]={█((6-k)/15,       k=1,2,3,4,5@0,                 otherwise)┤  
+Determine the expected payment for hospitalization under this policy.
+123
+210
+220(ответ)
+270
+367
+	An insurance policy on an electrical device pays a benefit of 4000 if the device fails during the first year. The amount of the benefit decreases by 1000 each successive year until it reaches 0. If the device has not failed by the beginning of any given year, the probability of failure during that year is 0.4. Calculate the expected benefit under this policy.
+2234
+2400
+2694(ответ)
+2500
+2667
+	A manufacturer’s annual losses follow a distribution with density function 
+f(x)={█((2.5(0.6)^(2.5))/x^(3.5) ,       x>0.6@0,              otherwise)┤  
+To cover its losses, the manufacturer purchases an insurance policy with an annual deductible of 2. Calculate the mean of the manufacturer’s annual losses not paid by the insurance policy.
+0.84
+0.88
+0.93(ответ)
+0.95
+1.00
+	An insurance policy reimburses a loss up to a benefit limit of 10. The policyholder’s loss, Y, follows a distribution with density function:
+ f(y)={█(2y^(-3),        y>1@0,        otherwise)┤  
+Calculate the expected value of the benefit paid under the insurance policy.
+1.0
+1.3
+1.9(ответ)
+1.8
+2.0
+	A recent study indicates that the annual cost of maintaining and repairing a car in a town in Ontario averages 200 with a variance of 260. A tax of 20% is introduced on all items associated with the maintenance and repair of cars (i.e., everything is made 20% more expensive). Calculate the variance of the annual cost of maintaining and repairing a car after the tax is introduced.
+208
+260
+374(ответ)
+270
+312
+	The profit for a new product is given by Z = 3X – Y - 5. X and Y are independent random variables with D(X) = 1 and D(Y) = 2. Calculate D(Z).
+1
+5
+11(ответ)
+7
+16
+	Two fair dice are rolled. Let X be the absolute value of the difference between the two numbers on the dice. Calculate the probability that X < 3.
+2/9
+1/3
+2/3(ответ)
+4/9
+5/9
+	An electronic system contains three cooling components that operate independently. The probability of each component’s failure is 0.05. The system will overheat if and only if at least two components fail. Calculate the probability that the system will overheat.
+0.045
+0.098
+0.007(ответ)
+0.135
+0.143
+	The number of days an employee is sick each month is modeled by a Poisson distribution with mean 1. The numbers of sick days in different months are mutually independent. Calculate the probability that an employee is sick more than two days in a three-month period.
+0.199
+0.224
+0.577(ответ)
+0.423
+0.801
+	The loss due to a fire in a commercial building is modeled by a random variable X with density function
+ f(x)={█(0.005(20-x),   0<x<20@0,                        otherwise)┤   
+Given that a fire loss exceeds 8, calculate the probability that it exceeds 16.
+1/25
+1/8
+1/9(ответ)
+1/3
+3/7
